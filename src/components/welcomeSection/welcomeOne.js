@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import ZerodhaLogin from '../loginsection/zerodha';
+
 
 const initData = {
     heading: "Power to your portfolio",
@@ -29,10 +31,7 @@ class welcomeOne extends Component {
                         <h1>Finzr</h1>
                         <h3 className="fw-3 mt-2 mt-sm-3">{this.state.data.heading}</h3>
                         <p className="my-3">{this.state.data.content}</p>
-                        <div className="button-group">
-                            <a href="#" className="btn btn-bordered"><span>{this.state.data.btnText}</span></a>
-                            <a href="#" className="btn btn-bordered d-none d-sm-inline-block">{this.state.data.btnTextTwo}</a>
-                        </div>
+                        <ZerodhaLogin/>
                         </div>
                     </div>
                     <div className="col-12 col-md-5 col-lg-6">
@@ -53,5 +52,9 @@ class welcomeOne extends Component {
         );
     }
 }
-
+// var spans = document.getElementById('loginzerodha');
+// spans.onclick=doSomething;
+//
+// function doSomething()
+// {alert("this");}
 export default welcomeOne;
