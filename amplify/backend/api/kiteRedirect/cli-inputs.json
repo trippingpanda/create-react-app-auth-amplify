@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/kite-redirect": {
+      "name": "/kite-redirect",
+      "lambdaFunction": "helloworld",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
