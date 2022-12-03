@@ -19,7 +19,7 @@ class zerodha extends Component {
         return (
             <section className="button-group">
                 {/*<a href="https://kite.zerodha.com/connect/login?v=3&api_key=rzw4912554top6zz" className="btn btn-bordered d-none d-sm-inline-block">Login With Zerodha</a>*/}
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMRXUhlbXYC7vhkF8PleiaIxRcMvoq9PpHdNath3cJBcPFRw/viewform" className="btn btn-bordered d-none d-sm-inline-block">Join Finzr</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMRXUhlbXYC7vhkF8PleiaIxRcMvoq9PpHdNath3cJBcPFRw/viewform" className="btn btn-bordered d-none d-sm-inline-block" target="_blank">Join Finzr</a>
                 <a href="#" className="btn btn-bordered d-none d-sm-inline-block">Read More</a>
             </section>
         );
