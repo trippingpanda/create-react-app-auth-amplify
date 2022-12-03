@@ -1,42 +1,42 @@
 import React, { Component } from 'react';
 
 const initData = {
-    heading: "Meet our Team Experts",
-    headingText: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+    heading: "About Finzr",
+    headingText: "Finzr is an online platform that offers stock market courses to help people learn and understand on how to invest or trade in the stock market. Its courses provide a comprehensive overview of investing principles, trading strategies, portfolio building, and more. The curriculum is designed to help people make informed decisions and maximize their returns. Finzr also provides access to various tools and resources to help people make more informed decisions.",
     headingTextTwo: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati."
 }
 
 const teamData = [
-    {
-        image: "/img/avatar_1.png",
-        name: "Junaid Hasan",
-        position: "Co-Founder & CEO",
-        text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, ex quibusdam aliquid dicta a explicabo.",
-    },
-    {
-        image: "/img/avatar_2.png",
-        name: "Jassica William",
-        position: "Web Developer",
-        text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, ex quibusdam aliquid dicta a explicabo.",
-    },
-    {
-        image: "/img/avatar_3.png",
-        name: "John Deo",
-        position: "ISO Developer",
-        text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, ex quibusdam aliquid dicta a explicabo.",
-    },
-    {
-        image: "/img/avatar_4.png",
-        name: "Johnson Smith",
-        position: "Android Developer",
-        text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, ex quibusdam aliquid dicta a explicabo.",
-    },
-    {
-        image: "/img/avatar_5.png",
-        name: "Md. Arham",
-        position: "Graphic Designer",
-        text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, ex quibusdam aliquid dicta a explicabo.",
-    }
+    // {
+    //     image: "/img/avatar_1.png",
+    //     name: "Junaid Hasan",
+    //     position: "Co-Founder & CEO",
+    //     text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, ex quibusdam aliquid dicta a explicabo.",
+    // },
+    // {
+    //     image: "/img/avatar_2.png",
+    //     name: "Jassica William",
+    //     position: "Web Developer",
+    //     text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, ex quibusdam aliquid dicta a explicabo.",
+    // },
+    // {
+    //     image: "/img/avatar_3.png",
+    //     name: "John Deo",
+    //     position: "ISO Developer",
+    //     text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, ex quibusdam aliquid dicta a explicabo.",
+    // },
+    // {
+    //     image: "/img/avatar_4.png",
+    //     name: "Johnson Smith",
+    //     position: "Android Developer",
+    //     text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, ex quibusdam aliquid dicta a explicabo.",
+    // },
+    // {
+    //     image: "/img/avatar_5.png",
+    //     name: "Md. Arham",
+    //     position: "Graphic Designer",
+    //     text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, ex quibusdam aliquid dicta a explicabo.",
+    // }
 ]
 
 const socialData = [

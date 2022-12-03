@@ -26,18 +26,18 @@ class ThemeOne extends Component {
                     <Header imageData={"/img/logo.png"} />
                     <WelcomeSection />
                     <PromoSection />
-                    <AboutSection />
-                    <WorkSection />
-                    <FeatureSection />
-                    <ScreenshotSection />
-                    <PricingSection />
-                    <ReviewSection />
+                    {/*<AboutSection />*/}
+                    {/*<WorkSection />*/}
+                    {/*<FeatureSection />*/}
+                    {/*<ScreenshotSection />*/}
+                    {/*<PricingSection />*/}
+                    {/*<ReviewSection />*/}
                     <TeamSection />
-                    <SubscribeSection />
-                    <DownloadSection />
-                    <BlogSection />
+                    {/*<SubscribeSection />*/}
+                    {/*<DownloadSection />*/}
+                    {/*<BlogSection />*/}
                     <ContactSection />
-                    <FooterSection />
+                    {/*<FooterSection />*/}
                 </div>
             </div>
         );

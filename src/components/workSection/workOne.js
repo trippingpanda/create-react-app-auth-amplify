@@ -24,22 +24,22 @@ const imgData = [
 const workData = [
     {
         linkClass: "pager-item active",
-        title: "Install",
+        title: "Learn From Scratch",
         text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae fugit labore delectus odio nisi eaque?"
     },
     {
         linkClass: "pager-item",
-        title: "Register",
+        title: "Revision Classes",
         text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae fugit labore delectus odio nisi eaque?"
     },
     {
         linkClass: "pager-item",
-        title: "Setup profile",
+        title: "Live Q&A Sessions",
         text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae fugit labore delectus odio nisi eaque?"
     },
     {
         linkClass: "pager-item",
-        title: "Done",
+        title: "Track Portfolio",
         text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae fugit labore delectus odio nisi eaque?"
     }
 ]

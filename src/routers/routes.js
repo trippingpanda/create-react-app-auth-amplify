@@ -49,8 +49,8 @@ class MyRouts extends React.Component {
             <Route exact path="/theme-eight" component={ThemeEight} />
             <Route exact path="/theme-nine" component={ThemeNine} />
             <Route exact path="/about-us" component={AboutUs} />
-            {/*<Route exact path="/pricing" component={Pricing} />*/}
-            {/*<Route exact path="/reviews" component={Reviews} />*/}
+            <Route exact path="/pricing" component={Pricing} />
+            <Route exact path="/reviews" component={Reviews} />
             <Route exact path="/faq" component={Faq} />
             <Route exact path="/login" component={Login} />
             <Route exact path="/signup" component={Signup} />
@@ -63,12 +63,12 @@ class MyRouts extends React.Component {
             <Route exact path="/contact" component={Contact} />
             <Route exact path="/maintenance" component={Maintenance} />
             <Route exact path="/coming-soon" component={ComingSoon} />
-            {/*<Route exact path="/blog-two-column" component={BlogTwoColumn} />*/}
-            {/*<Route exact path="/blog-three-column" component={BlogThreeColumn} />*/}
-            {/*<Route exact path="/blog-left-sidebar" component={BlogLeftSidebar} />*/}
-            {/*<Route exact path="/blog-right-sidebar" component={BlogRightSidebar} />*/}
-            {/*<Route exact path="/blog-details-left-sidebar" component={BlogDetailsLeftSidebar} />*/}
-            {/*<Route exact path="/blog-details-right-sidebar" component={BlogDetailsRightSidebar} />*/}
+            <Route exact path="/blog-two-column" component={BlogTwoColumn} />
+            <Route exact path="/blog-three-column" component={BlogThreeColumn} />
+            <Route exact path="/blog-left-sidebar" component={BlogLeftSidebar} />
+            <Route exact path="/blog-right-sidebar" component={BlogRightSidebar} />
+            <Route exact path="/blog-details-left-sidebar" component={BlogDetailsLeftSidebar} />
+            <Route exact path="/blog-details-right-sidebar" component={BlogDetailsRightSidebar} />
           </Switch>
         </Router>
       </div>

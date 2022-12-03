@@ -5,17 +5,19 @@ const BASE_URL = "https://my-json-server.typicode.com/themeland/appo-json-2/them
 
 class contactSection extends Component {
     state = {
-        data: {}
+        data: { "heading": "Stay Tuned",
+            "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+            "headingTextTwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati."}
     }
     componentDidMount(){
-        axios.get(`${BASE_URL}`)
-            .then(res => {
-                this.setState({
-                    data: res.data
-                })
-                // console.log(this.state.data)
-            })
-        .catch(err => console.log(err))
+        // axios.get(`${BASE_URL}`)
+        //     .then(res => {
+        //         this.setState({
+        //             data: res.data
+        //         })
+        //         // console.log(this.state.data)
+        //     })
+        // .catch(err => console.log(err))
     }
     render() {
         return (
