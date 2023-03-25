@@ -7,7 +7,7 @@ class contactSection extends Component {
     state = {
         data: { "heading": "Stay Tuned",
             "headingText": "Stay Tuned for More Features! We're constantly working to bring you the latest tools and resources to help you learn about the stock market and make informed investment decisions. Keep checking back for new features, courses, and tools that will help you take your investing skills to the next level. Don't miss out on our latest updates and offers – sign up for our newsletter and follow us on social media to stay in the loop!",
-            "headingTextTwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati."}
+            "headingTextTwo": "Stay Tuned for More Features! We're constantly working to bring you the latest tools and resources to help you learn about the stock market and make informed investment decisions. Keep checking back for new features, courses, and tools that will help you take your investing skills to the next level."}
     }
     componentDidMount(){
         // axios.get(`${BASE_URL}`)
