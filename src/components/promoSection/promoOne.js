@@ -9,25 +9,25 @@ class promoOne extends Component {
         promoData: [   {
             "id": 1,
             "promoImage": "/img/promo_img_1.png",
-            "promoTitle": "Learn From Scratch",
-            "promoText": "Our courses and resources are designed to help anyone, regardless of their level of experience, learn how to invest in the stock market from the ground up. Whether you're a complete beginner or have some experience, we can help you build a solid foundation in investing principles."
+            "promoTitle": "Start Investing Today",
+            "promoText": "Discover the world of investing with our comprehensive and beginner-friendly stock market courses. Master the essentials of trading strategies, portfolio building, and smart investing decisions to confidently embark on your financial journey. Start investing today with a solid foundation that will help you achieve your financial goals."
         },
             {
                 "id": 2,
                 "promoImage": "/img/promo_img_2.png",
-                "promoTitle": "Revision Classes",
-                "promoText": " Investing is an ongoing process that requires continuous learning and improvement. Our advanced courses and resources are designed to help you refine your investing skills and stay up-to-date with the latest market trends. Our \"Revision Classes\" are the perfect way to take your investing to the next level."
+                "promoTitle": "Upgrade Your Skills",
+                "promoText": "Stay ahead in the ever-evolving world of investing with our advanced courses and specialized resources. Our \"Upgrade Your Skills\" program delves into specific investing topics, ensuring you remain up-to-date with market trends and refine your investment acumen."
             },
             {
                 "id": 3,
                 "promoImage": "/img/promo_img_3.png",
-                "promoTitle": "Live Q&A Sessions",
-                "promoText": "We understand that investing can be complex and sometimes confusing. That's why we offer \"Live Q&A Sessions\" with experienced investors who can answer your questions and provide personalized guidance. Whether you're struggling with a specific investment or just looking for advice, our experts are here to help." },
+                "promoTitle": "Expert Insights: Live Q&A",
+                "promoText": "Learn from seasoned investors and receive personalized advice during our interactive \"Expert Insights: Live Q&A\" sessions. Pose your unique investment questions and benefit from the collective wisdom of experienced professionals, guiding you towards smarter financial decisions." },
             {
                 "id": 4,
                 "promoImage": "/img/promo_img_4.png",
-                "promoTitle": "Track Portfolio",
-                "promoText": "Keeping track of your investments is essential to making informed decisions and maximizing your returns. Our platform provides tools and resources that will help you track your investments and make more informed decisions based on your investment goals. With our \"Track Portfolio\" feature, you'll always know how your investments are performing."
+                "promoTitle": "Optimize Your Portfolio",
+                "promoText": "Efficiently monitor and manage your investments with our powerful tools and resources designed for tracking and decision-making. Utilize our \"Optimize Your Portfolio\" feature to stay informed, make data-driven choices, and maximize your investment returns."
             }]
     }
     componentDidMount(){
