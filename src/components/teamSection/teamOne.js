@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 
 const initData = {
     heading: "About Finzr",
-    headingText: "Finzr is an online platform that offers stock market courses to help people learn and understand on how to invest or trade in the stock market. Its courses provide a comprehensive overview of investing principles, trading strategies, portfolio building, and more. The curriculum is designed to help people make informed decisions and maximize their returns. Finzr also provides access to various tools and resources to help people make more informed decisions.",
-    headingTextTwo: "Finzr is an online platform that offers stock market courses to help people learn and understand on how to invest or trade in the stock market. Its courses provide a comprehensive overview of investing principles, trading strategies, portfolio building, and more. The curriculum is designed to help people make informed decisions and maximize their returns."
+    headingText: "\"Finzr: Your Investment Gateway\" is a user-friendly online platform offering expert-led stock market courses, powerful tools, and resources. Our concise curriculum teaches vital investing principles, trading strategies, and portfolio management for well-informed decisions and maximized returns. Unlock your financial potential with Finzr's comprehensive learning and practical guidance.",
+    headingTextTwo: "\"Finzr: Your Investment Gateway\" is a user-friendly online platform offering expert-led stock market courses, powerful tools, and resources. Our concise curriculum teaches vital investing principles, trading strategies, and portfolio management for well-informed decisions and maximized returns. Unlock your financial potential with Finzr's comprehensive learning and practical guidance."
 }
 
 const teamData = [
